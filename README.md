@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, je suis SALIFOU Aléhéri Christian</h1>
-<h3 align="center">Un développeur frontend passionné originaire d'Inde</h3>
+<h3 align="center">Un développeur full stack passionné </h3>
 
 <p align="left"> <img src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" /> </p>
 
