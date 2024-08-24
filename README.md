@@ -12,7 +12,7 @@
 <h3 align="left">Contact me:</h3>
 <p align="left">
 <a href="https://twitter.com/xaxa10238474" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xaxa10238474" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aléhéri-christian-itachixa-salifou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aléhéri-christian-itachixa-salifou" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/aléhéri-christian-itachixa-salifou](https://www.linkedin.com/authwall?trk=bf&trkInfo=AQFxR0SBqz9C2wAAAZGGV7aI9EsfsK7SACJ4Ky3EJrNRpsBhg3b2NTeus6YcwC-8liE_o-5gSX9VdJ0YP1tLvPtapqiORQfguygOApMCboJmDqVFTB2qAP1m4J3rV05zCjhaHK0=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fal%25C3%25A9h%25C3%25A9ri-christian-salifou-5302322a0)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aléhéri-christian-itachixa-salifou" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
